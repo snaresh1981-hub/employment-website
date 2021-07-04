@@ -5,8 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return ( 
-    <div>
       <div className="bg"> 
+        < div className="container align-content-center">
          <h1 className="h1-responsive font-weight-bold">
             Juniors make IT work.
           </h1>
